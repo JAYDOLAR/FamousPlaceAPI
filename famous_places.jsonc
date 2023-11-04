@@ -1,0 +1,980 @@
+{
+    "states": [
+        //Andhra Pradesh
+        {
+            "name": "Andhra Pradesh",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-yaJaMce71qArbv-V2bwH0V3IrYxuPee_SWEFgw9KQOnMD7KXzvJhZ4cZHgVc3eBn1EqWC1TmWSnhLBx5Msu_huLSWcEA=w1366-h689",
+            "places": [
+                {
+                    "name": "Tirupati",
+                    "description": "Famous for Sri Venkateswara Temple, a sacred pilgrimage site for Hindus.",
+                    "category": "Religious",
+                    "rating": "4.8",
+                    "ImgUrl": "https://static.toiimg.com/thumb/msid-93505029,width-1280,resizemode-4/93505029.jpg",
+                    "mapUrl": "https://goo.gl/maps/73zHMxSz9ao3SLZE8"
+                },
+                {
+                    "name": "Visakhapatnam",
+                    "description": "A coastal city known for its beaches, industries, and naval base.",
+                    "category": "City",
+                    "rating": "4.5",
+                    "ImgUrl": "https://assets-news.housing.com/news/wp-content/uploads/2022/07/25072249/VISHAKHAPATNAM-FEATURE-compressed.jpg",
+                    "mapUrl": "https://goo.gl/maps/NyhgjoZh2vgJXVJy7"
+                },
+                {
+                    "name": "Srikalahasti",
+                    "description": "Known for the Srikalahasti Temple dedicated to Lord Shiva and its architecture.",
+                    "category": "Religious",
+                    "rating": "4.5",
+                    "ImgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sri_Kala_Hasti.jpg/1024px-Sri_Kala_Hasti.jpg",
+                    "mapUrl": "https://goo.gl/maps/cqcHB9bNZPhCZYVr6"
+                },
+                {
+                    "name": "Simhachalam",
+                    "description": "Home to Varaha Lakshmi Narasimha Temple, an important Hindu pilgrimage site.",
+                    "category": "Religious",
+                    "rating": "4.6",
+                    "ImgUrl": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/14/w900X450/PRASAD-.jpg?w=400&dpr=2.6",
+                    "mapUrl": "https://goo.gl/maps/xzSPfniYViW1iGGo9"
+                },
+                {
+                    "name": "Belum Caves",
+                    "description": "One of the largest and longest cave systems in India, known for stunning formations.",
+                    "category": "Historical",
+                    "rating": "4.4",
+                    "ImgUrl": "https://c8.alamy.com/comp/2GX4P02/belum-caves-entrance-kolimigundla-andhra-pradesh-india-belum-caves-are-the-largest-and-longest-cave-system-open-to-the-public-known-for-its-speleo-2GX4P02.jpg",
+                    "mapUrl": "https://goo.gl/maps/xScW1wHBXAFWEYhv8"
+                },
+                {
+                    "name": "Golconda Fort",
+                    "description": "A historic fort known for its architecture, acoustics, and panoramic views.",
+                    "category": "Historical",
+                    "rating": "4.7",
+                    "ImgUrl": "https://www.hyderabadzone.com/wp-content/uploads/2019/09/Golconda-Fort.jpg",
+                    "mapUrl": "https://goo.gl/maps/HuFPEP6ZLkP4KMCc6"
+                },
+                {
+                    "name": "Borra Caves",
+                    "description": "Famous for its unique limestone formations and stalactites.",
+                    "category": "Wildlife",
+                    "rating": "4.2",
+                    "ImgUrl": "https://www.trawell.in/admin/images/upload/249844919BorraCaves_Main.jpg",
+                    "mapUrl": "https://goo.gl/maps/u1PGQbE2iEbDZrvJA"
+                },
+                {
+                    "name": "Pavuralakonda",
+                    "description": "An ancient Buddhist site with stupas, viharas, and relics.",
+                    "category": "Historical",
+                    "rating": "4.3",
+                    "ImgUrl": "https://chaibisket.com/wp-content/uploads/2016/07/pavuralakonda.jpg",
+                    "mapUrl": "https://goo.gl/maps/Vpp7GWvHG8JyygNJA"
+                },
+                {
+                    "name": "Ahobilam",
+                    "description": "A pilgrimage site with nine temples dedicated to Lord Narasimha.",
+                    "category": "Religious",
+                    "rating": "4.8",
+                    "ImgUrl": "https://turuhi-13cc0.kxcdn.com/storage/story/4-Upper%20Ahobilam%20Waterfall.jpg?width=500&metadata=1",
+                    "mapUrl": "https://goo.gl/maps/pp8KrqVkMd7xWrRD8"
+                },
+                {
+                    "name": "Lepakshi",
+                    "description": "Known for Veerabhadra Temple, showcasing intricate architecture and hanging pillar.",
+                    "category": "Historical",
+                    "rating": "4.5",
+                    "ImgUrl": "https://assets.thehansindia.com/h-upload/2020/02/23/728250-lepakshi.jpg",
+                    "mapUrl": "https://goo.gl/maps/4b5baFGv22m6yhYB6"
+                }
+            ]
+        },
+        //Rajasthan
+        {
+            "name": "Rajasthan",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-xEjKOCUnKkfKsem_8GPZ1svBDe6Bf22wAokvZTYSnTtGoDDNfZdx_qhydBD6dIwjS_DHgKTd9cljr1VsdBMLib0lJOYA=w1366-h689",
+            "places": [
+                {
+                    "name": "Jaipur",
+                    "description": "The Pink City, famous for historic palaces, forts, and vibrant markets.",
+                    "category": "Historical",
+                    "rating": "4.7",
+                    "ImgUrl": "https://assets.vogue.in/photos/5ce41ea8b803113d138f5cd2/1:1/w_1080,h_1080,c_limit/Jaipur-Travel-Shopping-Restaurants.jpg",
+                    "mapUrl": "https://goo.gl/maps/21hBZneEsZgRmiocA"
+                },
+                {
+                    "name": "Udaipur",
+                    "description": "Known as the City of Lakes, famous for its scenic beauty and palaces.",
+                    "category": "Historical",
+                    "rating": "4.6",
+                    "ImgUrl": "https://www.holidify.com/images/bgImages/UDAIPUR.jpg",
+                    "mapUrl": "https://goo.gl/maps/NMvNKgSLCVL1DUqe8"
+                },
+                {
+                    "name": "Jodhpur",
+                    "description": "Famous for Mehrangarh Fort and vibrant blue-painted houses.",
+                    "category": "Historical",
+                    "rating": "4.5",
+                    "ImgUrl": "https://www.holidify.com/images/bgImages/JODHPUR.jpg",
+                    "mapUrl": "https://goo.gl/maps/FZw1VrLTyY5jdtma9"
+                },
+                {
+                    "name": "Ajmer",
+                    "description": "Known for Ajmer Sharif Dargah, a significant Sufi shrine.",
+                    "category": "Religious",
+                    "rating": "4.4",
+                    "ImgUrl": "https://www.hlimg.com/images/deals/360X230/deal_iimage16871-1.jpg",
+                    "mapUrl": "https://goo.gl/maps/h9suNmU5BhUKatfL8"
+                },
+                {
+                    "name": "Pushkar",
+                    "description": "Famous for the Brahma Temple and annual Pushkar Camel Fair.",
+                    "category": "Religious",
+                    "rating": "4.6",
+                    "ImgUrl": "https://media2.thrillophilia.com/images/photos/000/099/062/original/1471702962_pushkar.jpg?width=975&height=600",
+                    "mapUrl": "https://goo.gl/maps/BzDSY86mhYkNwsui8"
+                },
+                {
+                    "name": "Mount Abu",
+                    "description": "Rajasthan's only hill station, known for Dilwara Temples and Nakki Lake.",
+                    "category": "Religious",
+                    "rating": "4.3",
+                    "ImgUrl": "https://lh3.googleusercontent.com/ZXPzf5DIv9E0La9pCTpQLTe_h71ZW1AmfldCQJMagxcxCOn76L7KLJkXNycGDzE5kLOBIrlUX0nChvpU9xJKDsLLN7TuECyijojEsLjz",
+                    "mapUrl": "https://goo.gl/maps/DkkYZJ6Vie2Mm9qc6"
+                },
+                {
+                    "name": "Ranthambore National Park",
+                    "description": "Renowned wildlife sanctuary, home to tigers and diverse fauna.",
+                    "category": "Wildlife",
+                    "rating": "4.8",
+                    "ImgUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/96/0c/1d.jpg",
+                    "mapUrl": "https://goo.gl/maps/8yfxdYn64mxCcZzb6"
+                },
+                {
+                    "name": "Keoladeo National Park",
+                    "description": "UNESCO-listed bird sanctuary, a paradise for birdwatchers.",
+                    "category": "Wildlife",
+                    "rating": "4.5",
+                    "ImgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Keoladeo_sanctuary.jpg",
+                    "mapUrl": "https://goo.gl/maps/KmSzY77yVtNnWXh46"
+                },
+                {
+                    "name": "Chittorgarh",
+                    "description": "Famous for Chittorgarh Fort, symbolizing Rajput valor and sacrifice.",
+                    "category": "Historical",
+                    "rating": "4.7",
+                    "ImgUrl": "https://assets-news.housing.com/news/wp-content/uploads/2021/04/22165934/Chittorgarh-Fort-India%E2%80%99s-largest-fort-spans-nearly-700-acres-FB-1200x700-compressed.jpg",
+                    "mapUrl": "https://goo.gl/maps/xQS5EGcuJ7FSF9nE9"
+                },
+                {
+                    "name": "Kumbhalgarh",
+                    "description": "Known for its massive fort with the second-longest wall in the world.",
+                    "category": "Historical",
+                    "rating": "4.6",
+                    "ImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/ac/0c/32/the-kumbha-bagh.jpg",
+                    "mapUrl": "https://goo.gl/maps/Lhk6Z2YR7YwK4Cuw9"
+                }
+            ]
+        },
+        //Tamil Nadu
+        {
+            "name": "Tamil Nadu",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-xC0GsjPdRAD6DRG08i8qKMBcMdW7Iyzu_ZfR41jL97dQTp1Ap89qV73fgigRq6VGQMUiO99xCRTD30SROsO5QrdoXwKw=w1366-h689",
+            "places": [
+                {
+                    "name": "Madurai",
+                    "description": "Famous for Meenakshi Amman Temple, a significant religious and historical site.",
+                    "category": "Religious",
+                    "rating": "4.5",
+                    "ImgUrl": "https://img.onmanorama.com/content/dam/mm/en/food/features/images/2022/10/8/madurai-temple-1.jpg",
+                    "mapUrl": "https://goo.gl/maps/PrZNrfd1iF6csDuU7"
+                },
+                {
+                    "name": "Rameswaram",
+                    "description": "Pilgrimage site known for Ramanathaswamy Temple and religious significance.",
+                    "category": "Religious",
+                    "rating": "4.4",
+                    "ImgUrl": "https://prinsli.com/wp-content/uploads/2022/07/Ramanathaswamy-temple-Rameswaram-Tamil-nadu-e1481445517760.jpg",
+                    "mapUrl": "https://goo.gl/maps/h2iHyzS1hLPEBCiB9"
+                },
+                {
+                    "name": "Palani",
+                    "description": "Home to Palani Murugan Temple, an important shrine for Lord Muruga devotees.",
+                    "category": "Religious",
+                    "rating": "4.3",
+                    "ImgUrl": "https://static.javatpoint.com/temples/images/palani-temple.png",
+                    "mapUrl": "https://goo.gl/maps/kCdGxb3kV8qWvzS26"
+                },
+                {
+                    "name": "Kanyakumari",
+                    "description": "Southernmost point of India, famous for its beaches and Vivekananda Rock Memorial.",
+                    "category": "Religious",
+                    "rating": "4.6",
+                    "ImgUrl": "https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/thiruvalluvar-statue-kanyakumari-1655196623_b2c20ff64e13e74324d6.webps",
+                    "mapUrl": "https://goo.gl/maps/mpZEbajtiHJRGayd9"
+                },
+                {
+                    "name": "Mudumalai National Park",
+                    "description": "A wildlife sanctuary known for its diverse flora and fauna.",
+                    "category": "Wildlife",
+                    "rating": "4.7",
+                    "ImgUrl": "https://www.india-a2z.com/images/mudumali1.png",
+                    "mapUrl": "https://goo.gl/maps/qrVhCiFZ3gmpuHjX8"
+                },
+                {
+                    "name": "Ooty",
+                    "description": "Popular hill station known for its scenic beauty and pleasant climate.",
+                    "category": "Wildlife",
+                    "rating": "4.5",
+                    "ImgUrl": "https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/Ooty-In-Summer-cover_17th-Jan.jpg",
+                    "mapUrl": "https://goo.gl/maps/Cqsi1aUT4qNTmwfF6"
+                },
+                {
+                    "name": "Thanjavur",
+                    "description": "Historical city known for Brihadeeswarar Temple and cultural heritage.",
+                    "category": "Historical",
+                    "rating": "4.6",
+                    "ImgUrl": "https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/thanjavur-1655294212_8d67c2fdaa46899ddda7.webp",
+                    "mapUrl": "https://goo.gl/maps/pJPTMKkodn6y4aqXA"
+                },
+                {
+                    "name": "Mahabalipuram",
+                    "description": "Famous for its UNESCO-listed ancient monuments and rock-cut temples.",
+                    "category": "Historical",
+                    "rating": "4.4",
+                    "ImgUrl": "https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/mahabalipuram-1654870108_c538505993052d39e713.webp",
+                    "mapUrl": "https://goo.gl/maps/ATTNY5nKSySqeb1B7"
+                },
+                {
+                    "name": "Chidambaram",
+                    "description": "Home to Nataraja Temple, dedicated to Lord Shiva as the cosmic dancer.",
+                    "category": "Historical",
+                    "rating": "4.3",
+                    "ImgUrl": "https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2022/12/Nataraja-Temple-Chidambaram-Tamil-Nadu.jpg?resize=1200%2C755&ssl=1",
+                    "mapUrl": "https://goo.gl/maps/oZcPAUe8qzMPvzUi7"
+                },
+                {
+                    "name": "Thiruvalluvar Statue",
+                    "description": "Statue of the ancient Tamil poet and philosopher Thiruvalluvar.",
+                    "category": "Statues",
+                    "rating": "4.5",
+                    "ImgUrl": "https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/thiruvalluvar-statue-1655196561_bbaf77a39540d6458dde.webp",
+                    "mapUrl": "https://goo.gl/maps/ZGddw67DJy5U6vCZA"
+                }
+            ]
+        },
+        //Uttar Pradesh
+        {
+            "name": "Uttar Pradesh",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-wUYgdD5L6rCv0rHcA8c-qGtM4MztwTuCBRR-FJGkPlrZ2cWGUpBmHVQKBB0EtgZre-QeT9dflpgtrVE_aFmZSIdfYJ=w1366-h689",
+            "places": [
+                {
+                    "name": "Taj Mahal",
+                    "description": "The iconic white marble mausoleum in Agra, a UNESCO World Heritage Site.",
+                    "category": "Historical",
+                    "rating": "4.9",
+                    "ImgUrl": "https://th-thumbnailer.cdn-si-edu.com/KPHiwfaC7pBGVYeQOt3_RF6L4Dw=/800x450/filters:focal(1471x1061:1472x1062)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/b6/30/b630b48b-7344-4661-9264-186b70531bdc/istock-478831658.jpg",
+                    "mapUrl": "https://goo.gl/maps/gvm5MiEqQvAMoJvS8"
+                },
+                {
+                    "name": "Varanasi",
+                    "description": "One of the oldest cities, known for spiritual significance and ghats along the Ganges River.",
+                    "category": "Religious",
+                    "rating": "4.7",
+                    "ImgUrl": "https://images.adsttc.com/media/images/6486/f324/7870/7215/2fd6/dbf5/newsletter/varanasis-ghats-the-adaptable-riverscapes-of-india_1.jpg?1686565718",
+                    "mapUrl": "https://goo.gl/maps/pbtnnoBH5Pt9uJ4h7"
+                },
+                {
+                    "name": "Fatehpur Sikri",
+                    "description": "A UNESCO World Heritage Site, known for its Mughal architecture and historical significance.",
+                    "category": "Historical",
+                    "rating": "4.5",
+                    "ImgUrl": "https://d37rmf1ynyg9aw.cloudfront.net/fit-in/700x700/data/v4/resources/images/328fc4ee-b6d6-4882-9e87-d7342b1b15bb.jpg",
+                    "mapUrl": "https://goo.gl/maps/xRAXB9N9KnABfPTg6"
+                },
+                {
+                    "name": "Ayodhya",
+                    "description": "An ancient city, revered by Hindus as the birthplace of Lord Rama.",
+                    "category": "Religious",
+                    "rating": "4.6",
+                    "ImgUrl": "https://images.moneycontrol.com/static-mcnews/2020/08/ayodhya-ram-mandir.jpg?impolicy=website&width=1600&height=900",
+                    "mapUrl": "https://goo.gl/maps/c3RwfJjDEaTKDci8A"
+                },
+                {
+                    "name": "Mathura",
+                    "description": "Associated with the birth of Lord Krishna, a major pilgrimage site for Hindus.",
+                    "category": "Religious",
+                    "rating": "4.3",
+                    "ImgUrl": "https://www.holidify.com/images/bgImages/MATHURA.jpg",
+                    "mapUrl": "https://goo.gl/maps/uVzAKqTEAXHwdpkg9"
+                },
+                {
+                    "name": "Allahabad (Prayagraj)",
+                    "description": "Confluence of three rivers, site of the Kumbh Mela and Triveni Sangam.",
+                    "category": "Religious",
+                    "rating": "4.4",
+                    "ImgUrl": "https://www.connectingtraveller.com/images/city/1650733076.jpg",
+                    "mapUrl": "https://goo.gl/maps/t4AUwbRBwJ6st8k56"
+                },
+                {
+                    "name": "Jim Corbett National Park",
+                    "description": "India's oldest national park, known for Bengal tigers and diverse wildlife.",
+                    "category": "Wildlife",
+                    "rating": "4.8",
+                    "ImgUrl": "https://www.indianholidaytrip.com/Upload/News/Img_1769_202251090615_The_Jim_Corbett_national_Park_9_Augt_min.jpg",
+                    "mapUrl": "https://goo.gl/maps/TS8y9eb6VQhT3BDy5"
+                },
+                {
+                    "name": "Sarnath",
+                    "description": "A significant Buddhist site where Gautama Buddha first taught the Dharma.",
+                    "category": "Religious",
+                    "rating": "4.5",
+                    "ImgUrl": "https://www.tripsavvy.com/thmb/qyEmnO76_TJEnMImKLvh3AVOEp4=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-11277274181-f11cfdb1a6514121aa39eea112917faf.jpg",
+                    "mapUrl": "https://goo.gl/maps/V9T3GyYRPh6apUrH7"
+                },
+                {
+                    "name": "Gorakhpur",
+                    "description": "Known for the Gorakhnath Temple, a prominent Hindu pilgrimage site.",
+                    "category": "Religious",
+                    "rating": "4.2",
+                    "ImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e0/b1/82/gorakhnath-temple.jpg?w=700&h=500&s=1",
+                    "mapUrl": "https://goo.gl/maps/hoLmJsctziF69fBfA"
+                }
+            ]
+        },
+        //gujarat
+        {
+            "name": "Gujarat",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-zVJ785-U-YqrVEsE34z7EFkoZnGL3zlW2McePWh2rt3uwE_KnE_XLFz8FtomMobob7ZCeVgYAcYGccT2OSuzKVZUF2-A=w1366-h689",
+            "places": [
+                {
+                    "name": "Somnath Temple",
+                    "description": "A sacred Hindu temple known for its religious significance.",
+                    "category": "Religious",
+                    "rating": "4.6",
+                    "ImgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Somanath_Temple.jpg/350px-Somanath_Temple.jpg",
+                    "mapUrl": "https://goo.gl/maps/x3T5F93fLFoLNSma7"
+                },
+                {
+                    "name": "Gir Forest National Park",
+                    "description": "Home to the Asiatic lions and various wildlife species.",
+                    "category": "Wildlife",
+                    "rating": "4.7",
+                    "ImgUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxIC90IR3jli2TdL1WS-PNj19D6v4rbElU_WchOV-WaQhyhcS0JK-NGrlChVaGWRhYWgQy2xpqvrvIsZKgBojutPtN58Mr6E7M5nX-6BSzSfdZIyUWiFgDcvSX1M--EupMBJfeTByxH8JPHkbKCq1I-6o_MRoKrbgCn7ywCyqD8XuZQqMk8osiQQecILg/w1200-h630-p-k-no-nu/Gir%20national%20park.jpg",
+                    "mapUrl": "https://goo.gl/maps/HjgVLDWcrdsoMWqf9"
+                },
+                {
+                    "name": "Statue of Unity",
+                    "description": "World's tallest statue of Sardar Vallabhbhai Patel.",
+                    "category": "Statues",
+                    "rating": "4.8",
+                    "ImgUrl": "https://assets.telegraphindia.com/telegraph/2bfe5b04-13a1-4ce4-ad56-c1e52719162b.jpg",
+                    "mapUrl": "https://goo.gl/maps/tburgA4AMGivTQY26"
+                },
+                {
+                    "name": "Dwarkadhish Temple",
+                    "description": "An important pilgrimage site for devotees of Lord Krishna.",
+                    "category": "Religious",
+                    "rating": "4.5",
+                    "ImgUrl": "https://www.tusktravel.com/blog/wp-content/uploads/2019/12/Dwarkadhish-Temple-in-Dwarka.jpg",
+                    "mapUrl": "https://goo.gl/maps/ey3Ap7hd4Um4YnVv6"
+                },
+                {
+                    "name": "Wild Ass Sanctuary",
+                    "description": "Habitat for the Indian Wild Ass and other wildlife species.",
+                    "category": "Wildlife",
+                    "rating": "4.3",
+                    "ImgUrl": "https://i0.wp.com/madhuonthego.com/wp-content/uploads/2022/01/IMG_20211205_072228.jpg?resize=748%2C561&ssl=1",
+                    "mapUrl": "https://goo.gl/maps/Y9X4oWSLSo8xNzXG6"
+                },
+                {
+                    "name": "Rani Ki Vav",
+                    "description": "An intricately designed stepwell with historical and architectural significance.",
+                    "category": "Historical",
+                    "rating": "4.6",
+                    "ImgUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/f4/32/80.jpg",
+                    "mapUrl": "https://goo.gl/maps/KNNAccKvi5ZbmXn49"
+                },
+                {
+                    "name": "Akshardham Temple",
+                    "description": "A beautiful temple complex known for its intricate carvings and spiritual atmosphere.",
+                    "category": "Religious",
+                    "rating": "4.7",
+                    "ImgUrl": "https://akshardham.com/gujarat/wp-content/uploads/2017/04/slider1.jpg",
+                    "mapUrl": "https://goo.gl/maps/nvGonwK8BAttusbB7"
+                },
+                {
+                    "name": "Shoolpaneshwar Wildlife Sanctuary",
+                    "description": "A sanctuary preserving diverse flora and fauna along the Narmada River.",
+                    "category": "Wildlife",
+                    "rating": "4.2",
+                    "ImgUrl": "https://i0.wp.com/eatravelandfun.com/wp-content/uploads/2016/11/img_5374.jpg?fit=512%2C512&ssl=1",
+                    "mapUrl": "https://goo.gl/maps/HaXAExUbzFMxhYcU7"
+                }
+            ]
+        },
+        // Arunachal Pradesh
+        {
+            "name": "Arunachal Pradesh",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-wjlc1lqpo8dGP01-TOBDMUI6rro6nukjaQlFJswgEmbJyq4yElXLpJ22z2KLtyUbWNo9LZ1xEfwGD3qjQSlX0DdPS8=w1366-h689",
+            "places": [
+                {
+                    "name": "Namdapha National Park",
+                    "description": " Namdapha National Park in Arunachal Pradesh, India, renowned for its biodiversity, offers a unique chance to witness the adorable Red Pandas in their natural habitat. Guided hikes through rainforests lead to spots like Lisu Village and Arshu, where these charming creatures can be observed, making it a December destination of both conservation and natural beauty.",
+                    "category": "Park",
+                    "rating": "4.4",
+                    "ImgUrl": "https://www.outlookindia.com/traveller/wp-content/uploads/2017/04/Namdapha1_FI.jpg",
+                    "mapUrl": "https://goo.gl/maps/QivCcnz84dkYbdbQ9"
+                },
+                {
+                    "name": "Upper Dibang Valley",
+                    "description": "Upper Dibang Valley, the largest yet least populated district in India, offers a unique experience in Arunachal Pradesh. Home to diverse tribes and wildlife, including the Mishmi Hills Giant Flying Squirrel, it's a remote destination with a close proximity to the Chinese border.",
+                    "category": "Valley",
+                    "rating": "4.3",
+                    "ImgUrl": "https://cdn.tripuntold.com/media/photos/location/2019/02/15/26f1c4f0-de87-4b2f-89d0-bad7969f89e9.jpg",
+                    "mapUrl": "https://goo.gl/maps/8d4cw2Fk7LsJVkC49"
+                },
+                {
+                    "name": "Talle Valley",
+                    "description": "Talley Valley in Arunachal Pradesh offers a captivating journey with insights into ancient tribal culture and conservation practices. Trek through Pangey, Talley, and Ziro Valleys, witnessing the sustainable techniques of Apatani people to safeguard their forests.",
+                    "category": "Valley",
+                    "rating": "4.1",
+                    "ImgUrl": "https://onhisowntrip.com/wp-content/uploads/2020/08/5-59-1.jpg",
+                    "mapUrl": "https://goo.gl/maps/LLVyZxHz6RLj8h6P8"
+                },
+                {
+                    "name": "Mechuka Valley",
+                    "description": "Nestled in West Siang District, Mechuka Valley in Arunachal Pradesh beckons with the vibrant Losar Festival and a serene environment. Guarded by the Indian Army, it offers an unspoiled escape, featuring government lodges, homestays, and a centuries-old Buddhist Monastery.",
+                    "category": "Valley",
+                    "rating": "5.0",
+                    "ImgUrl": "https://easternroutes.com/wp-content/uploads/2019/02/Mechuka_Arunachal_Pradesh.jpg",
+                    "mapUrl": "https://goo.gl/maps/3hj9kSwLdr7hA3Dy6"
+                },
+                {
+                    "name": "Bomdila",
+                    "description": "Bomdila in Arunachal Pradesh offers a captivating escape at 8000ft elevation, revealing breathtaking natural vistas including Gorichen and Kangto Peaks. Explore Bomdila Monastery, local crafts, and tranquil trails, with highlights like the Sessa Orchid Sanctuary.",
+                    "category": "hill station",
+                    "rating": "4.4",
+                    "ImgUrl": "https://media1.thrillophilia.com/filestore/ri86vytvql2la0eksro578a1i5xq_tawang-monastery.png?w=576&h=650",
+                    "mapUrl": "https://goo.gl/maps/ivLYLuMDDavMhe8fA"
+                }
+            ]
+        },
+        // Assam
+        {
+            "name": "Assam",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-yCKqoXG5Ap0ZVVvFvta78ikWn8jxCJI0XURiCfdn8Wa_QpuywnsLUwoGaGxNyfEbsn5c5_2TMQsPQtU_JLkQwr6fPO=w1366-h657",
+            "places": [
+                {
+                    "name": "Kaziranga National Park",
+                    "description": "Kaziranga National Park in Assam, renowned for housing two-thirds of the world's one-horned rhinoceros population, is a UNESCO World Heritage Site and a rich biodiversity hotspot. This vibrant park, also a tiger reserve, features diverse wildlife like tigers, elephants, and various unique species, making it a top attraction in Assam.",
+                    "category": "Park",
+                    "rating": "4.5",
+                    "ImgUrl": "https://nagaon.assam.gov.in/sites/default/files/inline-images/gate.JPG",
+                    "mapUrl": "https://goo.gl/maps/H77ymYpfQL9wX7tA7"
+                },
+                {
+                    "name": "Kakochang Waterfalls",
+                    "description": "Kakochang Waterfalls, nestled amidst Jorhat's rubber and coffee plantations in Assam, offer a captivating natural spectacle with cascading waters, scenic views of tea plantations, and the nearby Numaligarh ruins.",
+                    "category": "scenic natural attraction",
+                    "rating": "4.4",
+                    "ImgUrl": "https://www.swantour.com/sites/default/files/Kakochang-Waterfalls.jpg",
+                    "mapUrl": "https://goo.gl/maps/oWT9kyCSVnZze1Z3A"
+                },
+                {
+                    "name": "Tocklai Tea Research Centre",
+                    "description": "The Tocklai Tea Research Centre, established in 1911 in Assam, stands as a pioneering institution, contributing globally to tea knowledge through research, processing tours, and tasting experiences, making it a prominent attraction for tea enthusiasts.",
+                    "category": "Research Center",
+                    "rating": "4.3",
+                    "ImgUrl": "https://assets.telegraphindia.com/telegraph/f45a999d-cded-430e-b7bd-98744b5d64a9.jpg",
+                    "mapUrl": "https://goo.gl/maps/rLSDhTeXXwLk6xq77"
+                },
+                {
+                    "name": "Assam State Zoo And Botanical Garden",
+                    "description": "Assam State Zoo and Botanical Garden in Guwahati offers a captivating experience with a diverse range of over 900 animal, bird, and reptile species, including unique sightings like kangaroos, llamas, and the one-horned rhinoceros.",
+                    "category": "Zoo",
+                    "rating": "4.1",
+                    "ImgUrl": "https://lh5.googleusercontent.com/p/AF1QipO_F7l5vlJC1DmYuf6t4stgPiUd47UJM0nfVUQZ=w296-h202-n-k-no-v1",
+                    "mapUrl": "https://goo.gl/maps/PdsvVaagsHv3CU4x6"
+                },
+                {
+                    "name": "Guwahati Planetarium",
+                    "description": "The Guwahati Planetarium in Assam is a captivating hub for astronomy enthusiasts, offering interactive space exploration experiences, educational activities for kids, and opportunities to witness celestial events through seminars and exhibitions.",
+                    "category": "research",
+                    "rating": "4.3",
+                    "ImgUrl": "https://lh5.googleusercontent.com/p/AF1QipMYgB9dqTAltCxW2bIUaWBgaVtX1v1Cs8t5TeLO=w296-h202-n-k-no-v1",
+                    "mapUrl": "https://goo.gl/maps/iRLSBmpavjC1Ea2h6"
+                },
+                {
+                    "name": "Nameri National Park",
+                    "description": "Nameri National Park in Assam offers an exhilarating experience for wildlife enthusiasts, featuring royal Bengal tigers, elephants, diverse fauna, and a haven for bird watchers. The park's adventurous safaris and scenic river spots make it a beloved destination for nature lovers.",
+                    "category": "National Park",
+                    "rating": "4.6",
+                    "ImgUrl": "https://i0.wp.com/assam.eastmojo.com/wp-content/uploads/2021/02/WhatsApp_Image_2021_02_06_at_1_20_11_PM.jpeg?fit=739%2C415&ssl=1",
+                    "mapUrl": "https://goo.gl/maps/HVx7oRhqEjRZsexj7"
+                }
+            ]
+        },
+        // Bihar
+        {
+            "name": "Bihar",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-ybuMzGbHkL6-Dy7lany4Yg45rkRbj9J__FDj-11y_jC4TqjpewyQwPJzjvoYKDm3geI-xdGJMZoxaHlBC6DEwtzjvtpA=w1366-h689",
+            "places": [
+                {
+                    "name": "Bodhgaya",
+                    "description": "Bodhgaya, a sacred site associated with Gautam Buddha's enlightenment, features the Mahabodhi Temple and Peepal tree. Situated near Patna, it holds historical and religious significance, attracting visitors to explore the Archaeological Museum and various monasteries built by diverse Buddhist communities.",
+                    "category": "Destination",
+                    "rating": "4.5",
+                    "ImgUrl": "https://img.traveltriangle.com/blog/wp-content/uploads/2023/01/Places-To-Visit-In-Bodh-Gaya-Copy.jpg",
+                    "mapUrl": "https://goo.gl/maps/4s2EBU9cjDg4p6Xj6"
+                },
+                {
+                    "name": "Nalanda",
+                    "description": "Nalanda, situated 90 km from Patna, is a renowned tourist destination known for Nalanda University's historic ruins and its significance as a center of Buddhist learning. Visitors can explore attractions like Surya Mandir, Hiuen Tsang Memorial Hall, and Nalanda Museum, offering a glimpse into ancient history.",
+                    "category": "Vidyapeeth",
+                    "rating": "4.1",
+                    "ImgUrl": "https://nalandauniversity.files.wordpress.com/2011/03/nalanda_university.jpg",
+                    "mapUrl": "https://goo.gl/maps/8k94W6tDp7dXVtV29"
+                },
+                {
+                    "name": "Rajgir",
+                    "description": "Rajgir, a historical and spiritual gem in Bihar, holds significance as an ancient capital and a place where Lord Buddha lived and preached. Notably located 102 km from Patna, it features pilgrimage sites for Hinduism, Jainism, and Buddhism, including Swarna Gufa, Vishwa Shanti Stupa, and Griddhakuta Parvat.",
+                    "category": "Destination",
+                    "rating": "4.4",
+                    "ImgUrl": "https://new-img.patrika.com/upload/2021/05/13/rajgir.png",
+                    "mapUrl": "https://goo.gl/maps/CjigB4j6uQZBkoSk7"
+                },
+                {
+                    "name": "Gaya",
+                    "description": "Gaya, a Hindu pilgrimage center just 112 km from Patna, hosts the revered Vishnupad Temple and presents a historical tapestry of ancient Indian civilization, religion, and culture.",
+                    "category": "temple",
+                    "rating": "4.0",
+                    "ImgUrl": "https://img.traveltriangle.com/blog/wp-content/uploads/2023/01/Places-To-Visit-In-Bodh-Gaya-Copy.jpg",
+                    "mapUrl": "https://goo.gl/maps/eE53kzgpCCb8tAA99"
+                },
+                {
+                    "name": "Sasaram",
+                    "description": "Sasaram is home to the stunning tomb of Sher Shah, situated within a picturesque lake, known for constructing the Grand Trunk Road across North India, and located just 148 km from Patna.",
+                    "category": "Town",
+                    "rating": "4.2",
+                    "ImgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%22_Tomb_of_Sher_Shah_Suri_%22.jpg/1200px-%22_Tomb_of_Sher_Shah_Suri_%22.jpg",
+                    "mapUrl": "https://goo.gl/maps/gizzZxQV1WDDHnXF7"
+                }
+            ]
+        },
+        // Chhattisgarh
+        {
+            "name": "Chhattisgarh",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-wFwDZZ59wH5rMPEYJJGZpOisbyLW6TNNVRRbDLb2UAzskMNvFLhs-732Lhryxn9ufs2C58EsyuIGQDmQ93cKvU2FGT7Q=w1366-h689",
+            "places": [
+                {
+                    "name": "Barnawapara Wildlife Sanctuary",
+                    "description": "Barnawapara Wildlife Sanctuary, situated in Mahasamund district, boasts lush green forests and diverse wildlife, drawing global tourists to its 250 sq. km expanse.",
+                    "category": "Wildlife Sanctuary",
+                    "rating": "4.4",
+                    "ImgUrl": "https://qph.cf2.quoracdn.net/main-qimg-175d8056737b5b24e0f23c916a31f64b.webp",
+                    "mapUrl": "https://goo.gl/maps/HowgXK56QGQ6BhsA9"
+                },
+                {
+                    "name": "Shri Rajiv Lochan Mandir",
+                    "description": "Shri Rajiv Lochan Mandir in Chhattisgarh showcases exquisite deity carvings including Lord Vishnu, Lord Rama, Goddess Durga, and Lord Narasimha, highlighting the architectural beauty of Mahakosala.",
+                    "category": "Temple",
+                    "rating": "4.3",
+                    "ImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/e0/8a/temple.jpg?w=1200&h=1200&s=1",
+                    "mapUrl": "https://goo.gl/maps/Tnu29t6Y9Quq6y1r5"
+                },
+                {
+                    "name": "Danteshwari Temple",
+                    "description": "Danteshwari Temple in Jagdalpur holds historical significance from the Chalukya era and is revered as one of the 52 Shakti peethas, honoring the ancestral goddess of Warangal.",
+                    "category": "Temple",
+                    "rating": "4.2",
+                    "ImgUrl": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/12/31/3d42a3995ca16a2700d535d4911afe081672475859894449_original.jpg",
+                    "mapUrl": "https://goo.gl/maps/aJRvYYdJtddGiHt49"
+                },
+                {
+                    "name": "Chitrakoot Waterfalls",
+                    "description": "Chitrakoot Waterfalls in Chhattisgarh, often compared to India's Niagara Falls, are a stunning sight created by the Indravati River, drawing the highest number of visitors during the monsoon and captivating with its horse-shaped cascade.",
+                    "category": "Waterfall",
+                    "rating": "4.6",
+                    "ImgUrl": "https://www.adotrip.com/public/images/areas/master_images/60c3262b53a0b-Chitrakoot_waterfalls.jpg",
+                    "mapUrl": "https://goo.gl/maps/mtUgijenT9zG6cuk6"
+                },
+                {
+                    "name": "Bhoramdeo Temple",
+                    "description": "Bhoramdeo Temple in Chhattisgarh, resembling Khajuraho and Konarak Sun temples, stands as an ancient architectural marvel from the 11th century, earning it the title 'Khajuraho of Chhattisgarh'",
+                    "category": "Temple",
+                    "rating": "4.4",
+                    "ImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e1/07/70/bhoramdeo-temple.jpg?w=1200&h=1200&s=1",
+                    "mapUrl": "https://goo.gl/maps/upbJANFf2Nu8GNTK9"
+                }
+            ]
+        },
+        // Goa
+        {
+            "name": "Goa",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-zfpyCunRK2zrWbXRm6NeOMy7IO6JmSbJFsqUxFK9LgKKvISueuHETBUUcMlta_I3F1S52TPfZDRPVT9mCXzd6cm5g2=w1366-h689",
+            "places": [
+                {
+                    "name": "Aguada Fort",
+                    "description": "Aguada Fort in Goa, strategically placed at the river Mandovi estuary, offers a picturesque ambiance and a must-see attraction with its red-brown laterite rampart and Sinquerim Beach.",
+                    "category": "fort",
+                    "rating": "4.2",
+                    "ImgUrl": "https://goa-tourism.org.in/images/places-to-visit/headers/fort-aguada-goa-entry-fee-timings-holidays-reviews-header.jpg",
+                    "mapUrl": "https://goo.gl/maps/CXy5co75HnTBQvky7"
+                },
+                {
+                    "name": "Arambol Beach",
+                    "description": "Arambol Beach in Goa exudes a Bohemian vibe, drawing long-term hippies and youthful backpackers with its relaxed atmosphere, peace, and tranquility, making it a unique and popular tourist destination.",
+                    "category": "Beach",
+                    "rating": "4.2",
+                    "ImgUrl": "https://ik.imagekit.io/shortpedia/Voices/wp-content/uploads/2021/12/arambol-beach-goa-2@thrillophilia.jpg",
+                    "mapUrl": "https://goo.gl/maps/HTPG8jUc5ZQHMJp38"
+                },
+                {
+                    "name": "Baga Beach",
+                    "description": "Baga Beach in Goa, with its white sand and lively ambiance, is a prime tourist attraction known for various activities, making it a top spot for couples seeking fun experiences.",
+                    "category": "Beach",
+                    "rating": "4.5",
+                    "ImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3e/36/95/baga-sea-beach.jpg?w=1200&h=1200&s=1",
+                    "mapUrl": "https://goo.gl/maps/XvABaER7HjXeFZd68"
+                },
+                {
+                    "name": "Butterfly Beach",
+                    "description": "Butterfly Beach in Goa, a tranquil and unexplored gem north of Palolem Beach, is a serene haven for peace seekers, surrounded by rocks and offering a chance to spot dolphins during a paddle boat ride.",
+                    "category": "Beach",
+                    "rating": "4.5",
+                    "ImgUrl": "https://media1.thrillophilia.com/filestore/ft2htvs4sh3w7teogdjjwkhhcbie_shutterstock_765054841.jpg",
+                    "mapUrl": "https://goo.gl/maps/ZZ2LrGAo1CJAhndTA"
+                },
+                {
+                    "name": "Colva Beach",
+                    "description": "Colva Beach, the largest and oldest in South Goa, is a must-visit tourist attraction located 33 km from Panjim with its beautiful shoreline and historical significance.",
+                    "category": "Beach",
+                    "rating": "4.3",
+                    "ImgUrl": "https://www.tourmyindia.com/states/goa/image/colva-beach-banner.webp",
+                    "mapUrl": "https://goo.gl/maps/UFMM4j4De8dCpjwPA"
+                },
+                {
+                    "name": "Bom Jesus Basilica",
+                    "description": "Bom Jesus Basilica in Goa, renowned for its Baroque architecture and intricate basalt carvings, stands as a world-famous tourist attraction offering tranquility.",
+                    "category": "Church",
+                    "rating": "4.5",
+                    "ImgUrl": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1073481062_20190822145857.jpg",
+                    "mapUrl": "https://goo.gl/maps/a5rD2MX613LzcmjZ7"
+                },
+                {
+                    "name": "Church Of St. Cajetan",
+                    "description": "Church of St. Cajetan in Old Goa is a captivating Roman Catholic church, an UNESCO World Heritage Site, featuring a stunning white structure with a large dome and intricate Latin inscriptions, adding to the beauty of Goa's heritage.",
+                    "category": "Church",
+                    "rating": "4.6",
+                    "ImgUrl": "https://www.tourmyindia.com/states/goa/image/saint-cajetan-church-goa.webp",
+                    "mapUrl": "https://goo.gl/maps/xyfTgWjCEFX5fduj9"
+                }
+            ]
+        },
+        // Himachal Pradesh
+        {
+            "name": "Himachal Pradesh",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-xLlcV9d6vcZgRBf6yJ8OQAdT72oHPIzg5BaYCh1zl13eWt_txnpY7QO0CEIBDGik1O99wYnhb5RBJzNmXVu9bMNHN4=w1366-h689",
+            "places": [
+                {
+                    "name": "Manali",
+                    "description": "Manali, nestled at 2,050 meters in the Kullu district, offers stunning mountain vistas and adventure sports, making it a top tourist destination in Himachal Pradesh.",
+                    "category": "Hill Station",
+                    "rating": "4.7",
+                    "ImgUrl": "https://www.tripsavvy.com/thmb/ZDRQXV-PiFDTFZu4x22mZkYuw9s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-930881934-5ae56fe48023b90036464e72.jpg",
+                    "mapUrl": "https://goo.gl/maps/S9Kz3hsqAY8pr6pG9"
+                },
+                {
+                    "name": "Shimla",
+                    "description": "Shimla, a renowned hill station and the capital of Himachal Pradesh, offers a blend of colonial heritage, lush landscapes, and attractions like Viceregal Lodge and Christ Church, making it a top destination in the state.",
+                    "category": "Hill Station",
+                    "rating": "4.7",
+                    "ImgUrl": "https://assets-news.housing.com/news/wp-content/uploads/2022/07/18131039/shimla-feature-compressed.jpg",
+                    "mapUrl": "https://goo.gl/maps/cExpyWor7eSgmFNt9"
+                },
+                {
+                    "name": "Dalhousie",
+                    "description": "Dalhousie, a charming hill station with colonial heritage and a sanctuary for wildlife enthusiasts and photographers, offers a nostalgic journey and captivating natural beauty, making it a top tourist spot in Himachal Pradesh.",
+                    "category": "Hill Station",
+                    "rating": "4.3",
+                    "ImgUrl": "https://media1.thrillophilia.com/filestore/cex97dhqa08x9ycdmcuiyh5fdlsr_1587991355_1.Khajjiar-Mini-Switzerland-of-India-3.jpg",
+                    "mapUrl": "https://goo.gl/maps/TpLJdGFr8xBvePrM6"
+                },
+                {
+                    "name": "Kasol",
+                    "description": "Kasol, nestled in Parvati Valley, offers stunning scenery, moderate treks, Israeli cuisine, and a vibrant hippie culture, making it a top tourist spot in Himachal Pradesh.",
+                    "category": "Hill Station",
+                    "rating": "4.2",
+                    "ImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/1c/73/39/45/kasol-is-a-hamlet-in.jpg",
+                    "mapUrl": "https://goo.gl/maps/cp6XJSYc57MPnv4h9"
+                },
+                {
+                    "name": "Tirthan Valley",
+                    "description": "Tirthan Valley offers breathtaking natural beauty, chilly waterfalls, and a range of adventurous activities, making it a top Himachal Pradesh destination.",
+                    "category": "Valley",
+                    "rating": "4.0",
+                    "ImgUrl": "https://www.trawell.in/admin/images/upload/454282226Kullu_Tirthan_Valley_Main.jpg",
+                    "mapUrl": "https://goo.gl/maps/j3DmXXJmMzuxUb6W7"
+                }
+            ]
+        },
+        // Jharkhand
+        {
+            "name": "Jharkhand",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-yAgydhze6y61kA5b4TZh0eQaTnoekSxgCbm5uZ4PT-yR4bgyynjDEm2YZ2uTKGPj5Mfs4ar1Yz-MS10P5WXBLVgHw_lQ=w1366-h689",
+            "places": [
+                {
+                    "name": "Ranchi",
+                    "description": "Ranchi, the 'City of Waterfalls' and capital of Jharkhand, offers natural beauty, waterfalls, and mineral reserves, making it a notable tourist destination.",
+                    "category": "city",
+                    "rating": "4.3",
+                    "ImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5e/c0/46/drone-shot-of-the-valley.jpg?w=600&h=500&s=1",
+                    "mapUrl": "https://goo.gl/maps/esP83KkVwX2bgnsM6"
+                },
+                {
+                    "name": "Jamshedpur",
+                    "description": "Jamshedpur, the 'Steel City of India,' founded by Jamsedji Nusserwanji Tata, is the largest city in Jharkhand with well-planned urban attractions.",
+                    "category": "City",
+                    "rating": "4.5",
+                    "ImgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Cityscapes_of_Jamshedpur.jpg",
+                    "mapUrl": "https://goo.gl/maps/KLfLCS69V8SZapG96"
+                },
+                {
+                    "name": "Deoghar",
+                    "description": "Deoghar, a religious destination known for its Hindu temples and the revered Baidyanath Jyotirlinga, attracts devotees seeking spiritual experiences.",
+                    "category": "Religious",
+                    "rating": "4.3",
+                    "ImgUrl": "https://images.herzindagi.info/image/2022/Apr/deoghar-tourist-places.jpg",
+                    "mapUrl": "https://goo.gl/maps/GqkyXA8sgvyvJ6H57"
+                },
+                {
+                    "name": "Hazaribagh",
+                    "description": "Hazaribagh, a nature lover's paradise, offers unexplored forests, stunning rock formations, and serene lakes in the Chhota Nagpur plateau.",
+                    "category": "Natural",
+                    "rating": "4.0",
+                    "ImgUrl": "https://peopleplaces.in/wp-content/uploads/2023/06/Hazaribagh-A-Historical-And-Cultural-Gem-In-Jharkhand.jpg",
+                    "mapUrl": "https://goo.gl/maps/HWAkfP7iCThuSW8A8"
+                }
+            ]
+        },
+        // Karnataka
+        {
+            "name": "Karnataka",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-yEbkjkQDp6T5Np1j4xUERVsPnj4QInhXTxN9PjI0YyaUidp-hjC5noW6hHMVCJenSDJac4z_G59R9hr7AbH51c4SrZCw=w1366-h657",
+            "places": [
+                {
+                    "name": "Bengaluru",
+                    "description": "Bengaluru, the Garden City turned Silicon Valley, offers pleasant weather, parks, lakes, and nearby hill stations for a diverse vacation.",
+                    "category": "City",
+                    "rating": "4.8",
+                    "ImgUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,g_center,h_900,q_60,w_1600/4bf3af6f41accf2a2c098bdbc5974ea6.jpg",
+                    "mapUrl": "https://goo.gl/maps/KsWBoCpjRzqutRxb6"
+                },
+                {
+                    "name": "Coorg",
+                    "description": "Coorg, also known as Kodagu, is a renowned misty hill station nestled among captivating mountains in Karnataka.",
+                    "category": "Hill Station",
+                    "rating": "4.3",
+                    "ImgUrl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/01/coorg-reviews-tourist-places-tourist-destinations.jpg",
+                    "mapUrl": "https://goo.gl/maps/MVEtHetcmMsJiiwe7"
+                },
+                {
+                    "name": "Hampi",
+                    "description": "Hampi, a UNESCO World Heritage Site in Karnataka, is a historic village with impressive ruins of the Vijayanagar Empire, showcasing around 500 ancient monuments and temples.",
+                    "category": "Heritage Site",
+                    "rating": "4.9",
+                    "ImgUrl": "https://www.holidaymonk.com/wp-content/uploads/2020/10/Vastuchitra_Stone-Chariot-Hampi.jpg",
+                    "mapUrl": "https://goo.gl/maps/hwGY6pzCicL1TBQM9"
+                },
+                {
+                    "name": "Mysore",
+                    "description": "Mysore, known as the 'city of palaces,' boasts stunning royal residences, vibrant culture, and historical attractions.",
+                    "category": "City",
+                    "rating": "4.6",
+                    "ImgUrl": "https://lp-cms-production.imgix.net/2019-06/5419167.jpg",
+                    "mapurl": "https://goo.gl/maps/aQfABwRG6pwvLMbPA"
+                },
+                {
+                    "name": "Mangalore",
+                    "description": "Mangalore, nestled between the Arabian Sea and Western Ghats, offers picturesque beaches and a refreshing coastal experience.",
+                    "category": "City",
+                    "rating": "4.2",
+                    "ImgUrl": "https://www.awaycabs.in/uploads/image/tour-packages/mangalore-local-tour-1/mangalore-main-1.jpg",
+                    "mapUrl": "https://goo.gl/maps/QrWB68uRmzK2fc3P9"
+                },
+                {
+                    "name": "Gokarna",
+                    "description": "Gokarna is a coastal paradise known for its stunning beaches, palm-fringed shores, and serene blue seas.",
+                    "category": "Beach",
+                    "rating": "4.5",
+                    "ImgUrl": "https://www.holidify.com/images/bgImages/GOKARNA.jpg",
+                    "mapUrl": "https://goo.gl/maps/YRPxq4GGFVgwV2vA6"
+                }
+            ]
+        },
+        // Kerala
+        {
+            "name": "Kerala",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-ytpd4qhBvVM19_6sDi4OQUSuqNpWG1G3lDzouEYgfrhpJEjQz07KSjgErXLwqcRqjapwAi10ScP_w7PgMGRSpQIKCQ5A=w1366-h689",
+            "places": [
+                {
+                    "name": "Alleppey",
+                    "description": "Alleppey is a backwater paradise in Kerala known for its houseboat stays, tranquil beauty, and serene backwater trips.",
+                    "category": "Backwater",
+                    "rating": "4.8",
+                    "ImgUrl": "https://media2.thrillophilia.com/images/photos/000/158/476/original/1560604111_aaaa.jpg?",
+                    "mapUrl": "https://goo.gl/maps/mcvaVzhGLFfbBMaU9"
+                },
+                {
+                    "name": "Kumarakom",
+                    "description": "Kumarakom is a serene haven in Kerala, known for its tranquil backwaters, lush landscapes, and delightful houseboat stays.",
+                    "category": "Tranquil",
+                    "rating": "4.2",
+                    "ImgUrl": "https://s3.india.com/travel/wp-content/uploads/2017/01/kumarakom-625x470.jpg",
+                    "mapUrl": "https://goo.gl/maps/8F8jtBKNpsmoDYam6"
+                },
+                {
+                    "name": "Kovalam",
+                    "description": "Kovalam is a vibrant beach destination in Kerala known for its festive atmosphere, Ayurvedic treatments, water sports, and international allure.",
+                    "category": "Beach",
+                    "rating": "4.0",
+                    "ImgUrl": "https://www.holidify.com/images/bgImages/KOVALAM.jpg",
+                    "mapUrl": "https://goo.gl/maps/zHDLdpz5VUt6DYzt8"
+                },
+                {
+                    "name": "Vagamon",
+                    "description": "Vagamon is a serene hill station in Kerala, known for its picturesque landscapes, tea plantations, and tranquil ambiance.",
+                    "category": "Hill Station",
+                    "rating": "4.6",
+                    "ImgUrl": "https://orangevalleygroup.com/storage/2022/01/vagamon-mottakkunnu-orange-valley-hills-resort-vagamon.jpg",
+                    "mapUrl": "https://goo.gl/maps/bMp99xDt8s53hEL79"
+                },
+                {
+                    "name": "Kozhikode",
+                    "description": "Kozhikode, or Calicut, is a bustling city in Kerala known for its rich cultural heritage, historical sites, and renowned Malabar cuisine.",
+                    "category": "City",
+                    "rating": "4.0",
+                    "ImgUrl": "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/0e/d5/18/2b/psx-20170319-125048-largejpg.jpg",
+                    "mapUrl": "https://goo.gl/maps/UzERUkTkoQgS46Kx5"
+                }
+            ]
+        },
+        // Maharashtra
+        {
+            "name": "Maharashtra",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-zwHqGqe0vXmZm015v3yEU3-pXDzzyIOSdE3N5kru_EUtAUyGIG96qFrtwCt9lucVG7NCMRIxX07L6WjDX5QGftEfrIMw=w1366-h689",
+            "places": [
+                {
+                    "name": "Mumbai",
+                    "description": "Mumbai, the vibrant 'City of Dreams' known for its diverse culture, iconic architecture, bustling lifestyle, and the heart of India's film industry.",
+                    "category": "City",
+                    "rating": "4.7",
+                    "ImgUrl": "https://tourscanner.com/blog/wp-content/uploads/2022/07/fun-and-unusual-things-to-do-in-Mumbai.jpg",
+                    "mapUrl": "https://goo.gl/maps/9B5Qif5VYDXNKd9UA"
+                },
+                {
+                    "name": "Pune",
+                    "description": "Pune, the 'Cultural Capital of Maharashtra,' blends history, forts, vibrant culture, and artistic expressions, offering a rich experience for travelers.",
+                    "category": "City",
+                    "rating": "4.6",
+                    "ImgUrl": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/07/pune-1625115438.jpg",
+                    "mapUrl": "https://goo.gl/maps/nRi5PqFS4gig96cL9"
+                },
+                {
+                    "name": "Mahabaleshwar",
+                    "description": "Mahabaleshwar, a picturesque hill station in the Western Ghats, offers stunning landscapes, outdoor adventures, and serene experiences for travelers.",
+                    "category": "Hill Station",
+                    "rating": "4.7",
+                    "ImgUrl": "https://assets-news.housing.com/news/wp-content/uploads/2022/09/05095616/Places-to-visit-in-Mahabaleshwar-and-things-to-do.jpg",
+                    "mapUrl": "https://goo.gl/maps/WXT7Rt434wNvG6ek9"
+                },
+                {
+                    "name": "Lonavala",
+                    "description": "Lonavala, a charming hill station between Mumbai and Pune, offers scenic beauty, delicious chikki, and access to nearby attractions like Pawna Lake and historic forts.",
+                    "category": "Hill Station",
+                    "rating": "4.3",
+                    "ImgUrl": "https://www.holidify.com/images/cmsuploads/compressed/2603_20190702105328.jpg",
+                    "mapUrl": "https://goo.gl/maps/17xWLzBUihEDSCQj6"
+                },
+                {
+                    "name": "Khandala",
+                    "description": "Khandala, a scenic hill station near Lonavala, boasts lush landscapes, lakes, waterfalls, and various attractions like caves and adventure parks.",
+                    "category": "Hill Station",
+                    "rating": "4.4",
+                    "ImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d3/55/5a/pathway-to-fort.jpg?w=500&h=-1&s=1",
+                    "mapUrl": "https://goo.gl/maps/rCuZVqoy6i4PUwV29"
+                },
+                {
+                    "name": "Matheran",
+                    "description": "Matheran, a serene hill station in Maharashtra, offers a car-free environment, scenic viewpoints, trekking trails, and a peaceful atmosphere.",
+                    "category": "Hill Station",
+                    "rating": "4.7",
+                    "ImgUrl": "https://media1.thrillophilia.com/filestore/0454spe8g6n5cdf7uh3uwmu58krp_1589992963_shutterstock_711596605.jpg?w=305&h=230&dpr",
+                    "mapUrl": "https://goo.gl/maps/GgSTphWPndLwZhaD9"
+                },
+                {
+                    "name": "Lavasa",
+                    "description": "Lavasa, a meticulously planned hill city resembling Portofino, offers European charm, scenic beauty, and adventure activities.",
+                    "category": "Resort",
+                    "rating": "4.3",
+                    "ImgUrl": "https://blog.thomascook.in/wp-content/uploads/2018/05/3-new-images-z5b.jpg",
+                    "mapUrl": "https://goo.gl/maps/agf6g2rX7oW4wCZe8"
+                },
+                {
+                    "name": "Nashik",
+                    "description": "Nashik, a sacred city with historical significance, offers religious sites, natural beauty, and cultural attractions.",
+                    "category": "Pilgrimage",
+                    "rating": "4.4",
+                    "ImgUrl": "https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/cover-image-of-Places-To-Visit-In-Nashik_7th-jan.jpg",
+                    "mapUrl": "https://goo.gl/maps/Jde2uGoogeu7J2peA"
+                }
+            ]
+        },
+        // Manipur
+        {
+            "name": "Manipur",
+            "stateImg": "https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-zyYsw0XtOUwxIaKZwLOzhUges8jRX9uJW5kc7GQilKtoHds7OwwhuanbKwOdh-M5joTJfzALp7mm4AWyU4rYvQSb6y=w1366-h689",
+            "places": [
+                {
+                    "name": "Senapati",
+                    "description": "Senapati, a serene retreat surrounded by lush forests, offers a cultural immersion into Manipur.",
+                    "category": "Cultural",
+                    "rating": "4.7",
+                    "ImgUrl": "https://www.voiceofsevensisters.com/wp-content/uploads/2022/08/5eef41f7a7b84be76de3d71aea1d6cb8-905x613.jpg",
+                    "mapUrl": "https://goo.gl/maps/tn6ZC6BzZ7eGA8XcA"
+                },
+                {
+                    "name": "Imphal",
+                    "description": "Imphal, a captivating city nestled amidst hills and valleys, stands as a prominent destination in Manipur with its scenic beauty, cultural landmarks, and vibrant festivals.",
+                    "category": "City",
+                    "rating": "4.0",
+                    "ImgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/City_of_Imphal.jpg/340px-City_of_Imphal.jpg",
+                    "mapUrl": "https://goo.gl/maps/wTsruFebcJRHGTia7"
+                },
+                {
+                    "name": "Khongjom",
+                    "description": "Khongjom, a historical tribute to valor, commemorates the Anglo-Manipur War through a memorial, offering a significant site for those interested in military history.",
+                    "category": "Historical site",
+                    "rating": "4.7",
+                    "ImgUrl": "https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2022/04/25195206/khongjom-war-memorial.jpg",
+                    "mapUrl": "https://goo.gl/maps/ULqg97jHagH1F6r37"
+                },
+                {
+                    "name": "Ukhrul",
+                    "description": "Ukhrul, a serene haven of natural beauty, offers tranquility and is a top destination for peaceful retreats in Manipur.",
+                    "category": "Retreat",
+                    "rating": "4.7",
+                    "ImgUrl": "https://travellingslacker.com/wp-content/uploads/2018/04/Ukhrul-Town-3.jpg",
+                    "mapUrl": "https://goo.gl/maps/BqhCsR5wyVrjg3bM7"
+                },
+                {
+                    "name": "Chandel",
+                    "description": "Chandel, a nature's haven with diverse culture, offers a serene escape and is a captivating destination in Manipur.",
+                    "category": "Tourism",
+                    "rating": "",
+                    "ImgUrl": "https://www.vivacepanorama.com/wp-content/uploads/2015/10/Chandel-of-Bundelkhand.jpg",
+                    "mapUrl": "https://goo.gl/maps/8xY8R7eNSrvDa1XT7"
+                }
+            ]
+        }
+    ]
+}
